@@ -1,2 +1,1 @@
-# hw17.8
-practice
+https://naser-parvez.github.io/hw17.8/
